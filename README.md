@@ -1,2 +1,5 @@
 # init
-Copy Paste Commands to init a Project
+Copy Paste Commands to init a Project.
+
+## Contribute
+Please contribute :)
