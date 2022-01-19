@@ -14,7 +14,7 @@ python -m venv venv
 curl https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore -OutFile .gitignore
 
 # Add venv folder to .gitignore
-echo -e '# Virtual Environment folder\nvenv\*' >> .gitignore
+echo -e '# Virtual Environment folder\nvenv/*' >> .gitignore
 
 # uses the covgen package to generate the Contributor Covenant and
 # give your project a code of conduct that will be welcoming to all
